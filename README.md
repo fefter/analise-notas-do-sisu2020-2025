@@ -84,4 +84,4 @@ Durante o desenvolvimento deste projeto foram trabalhados conceitos como:
 
 # Autor
 Fernanda Pinheiro
-- Interpretação analítica de dados.
+
